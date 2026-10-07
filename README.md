@@ -13,7 +13,7 @@ Cybersecurity student at **Washington State University** (class of 2030), based 
 | Area | Tools |
 |------|-------|
 | Networking | Nmap, Wireshark |
-| Languages | [Python, C, JavaScript] |
+| Languages | [Python, C, Java] |
 | Systems | [Linux, Windows, VMs] |
 | Other | [Git, Markdown, ...] |
 
